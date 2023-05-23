@@ -24,7 +24,7 @@
 ###
 
  💻 &nbsp;Programming Languages
- <img alt="Night Coding" src="https://i.pinimg.com/originals/8d/62/1f/8d621f66f551b6a39072473d52280ff0.gif" align="right" width="40%"/>
+ <img alt="Night Coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" width="35%"/>
 
 ###
 
