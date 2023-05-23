@@ -24,10 +24,9 @@
 ###
 
  💻 &nbsp;Programming Languages
+ <img alt="Night Coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" width="35%"/>
 
 ###
-
-<img alt="Night Coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" width="35%"/>
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
