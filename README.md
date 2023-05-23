@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="1000" src="./Resources/Github Profile Name.png"  />
+  <img width="1000" src="./Resources/Profile Image.png"  />
 </div>
 
 ###
