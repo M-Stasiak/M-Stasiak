@@ -67,8 +67,10 @@
 ## 📈 &nbsp;Stats
 
 ###
-[![GitHub Streak](https://streak-stats.demolab.com?user=M-Stasiak&theme=cobalt&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Stasiak&show_icons=true&theme=cobalt&bg_color=00000000&hide_border=false&count_private=true)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://streak-stats.demolab.com?user=M-Stasiak&theme=cobalt&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=M-Stasiak&show_icons=true&theme=cobalt&bg_color=00000000&hide_border=false&count_private=true" />
+</div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000" height="150"/>
 </div>
