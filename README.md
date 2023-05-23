@@ -13,16 +13,9 @@
   </a>
 </div>
 
-###
-
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M-Stasiak&label=Profile%20Views&color=9&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=M-Stasiak&label=Profile%20Views&color=3&icon=0&pretty=true" />
 </div>
-
-###
-
-<h1 align="center">Hey there! 👋 I'm M-Stasiak</h1>
-<p align="center">Automatic control and Robotics Student at the Poznań University of Technology</p>
 
 ###
 
