@@ -35,7 +35,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![LabView](https://img.shields.io/badge/-LabView-05122A?style=flat&logo=LabVIEW&logoColor=FFDB00)&nbsp;
+![LabVIEW](https://img.shields.io/badge/-LabVIEW-05122A?style=flat&logo=LabVIEW&logoColor=FFDB00)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
 ###
