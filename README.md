@@ -15,9 +15,9 @@
     <img src="https://img.shields.io/static/v1?message=Website&logo=webpack&label=&color=4caf50&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website logo"  />
   </a>
 </div>
-
+<!-- &style=for-the-badge -->
 <div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=M-Stasiak&label=Profile%20Views&color=3&icon=0&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=m-stasiak&label=Profile%20views&color=blue&style=flat-square&base=100" alt="m-stasiak" />
 </div>
 
 ###
@@ -32,6 +32,7 @@
 ###
 
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -57,7 +58,7 @@
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Premiere Pro CC](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=flat&logo=adobepremierepro)&nbsp;
+![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-05122A?style=flat&logo=davinciresolve&logoColor=FF6666)&nbsp;
 
  ⚙ &nbsp;Other
 
@@ -65,12 +66,12 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
+![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics)&nbsp;
 
 ###
 
 ## 📈 &nbsp;Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=M-Stasiak&theme=cobalt&hide_border=false&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Stasiak&show_icons=true&theme=cobalt&bg_color=00000000&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m-stasiak&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Stasiak&show_icons=true&theme=cobalt&bg_color=00000000&hide_border=false&count_private=true)
 :-------------------------:|:-------------------------:
 
 <div align="center">
