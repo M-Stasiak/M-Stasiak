@@ -56,15 +56,17 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![STM32](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics&logoColor=59EEFF)&nbsp;
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-05122A?style=flat&logo=davinciresolve&logoColor=FF6666)&nbsp;
+![TIA Portal](https://img.shields.io/badge/-TIA%20Portal-05122A?style=flat&logo=siemens&logoColor=00E0B3)&nbsp;
+<!--![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;-->
 
  ⚙ &nbsp;Other
 
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=archlinux)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=heroku&logoColor=B584E0)&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics)&nbsp;
 
@@ -75,7 +77,7 @@
 :-------------------------:|:-------------------------:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000" height="300"/>
 </div>
 
 ###
