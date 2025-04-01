@@ -73,11 +73,11 @@
 ###
 
 ## 📈 &nbsp;Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=m-stasiak&theme=cobalt&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Stasiak&show_icons=true&theme=cobalt&bg_color=00000000&hide_border=false&count_private=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=m-stasiak&theme=cobalt&date_format=j%20M%5B%20Y%5D&mode=weekly)](https://git.io/streak-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Stasiak&show_icons=true&theme=cobalt&bg_color=00000000&hide_border=false&count_private=true)
 :-------------------------:|:-------------------------:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000&size_weight=0.3&count_weight=0.7&layout=donut" height="300"/>
 </div>
 
 ###
