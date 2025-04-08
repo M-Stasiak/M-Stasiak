@@ -36,6 +36,7 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![LabVIEW](https://img.shields.io/badge/-LabVIEW-05122A?style=flat&logo=LabVIEW&logoColor=FFDB00)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnubash)&nbsp;
 
@@ -57,6 +58,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![NeoVim](https://img.shields.io/badge/-NeoVim-05122A?style=flat&logo=neovim)&nbsp;
 ![STM32](https://img.shields.io/badge/-STM32CubeIDE-05122A?style=flat&logo=stmicroelectronics&logoColor=59EEFF)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=androidstudio)&nbsp;
 ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-05122A?style=flat&logo=davinciresolve&logoColor=FF6666)&nbsp;
 ![TIA Portal](https://img.shields.io/badge/-TIA%20Portal-05122A?style=flat&logo=siemens&logoColor=00E0B3)&nbsp;
 <!--![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
