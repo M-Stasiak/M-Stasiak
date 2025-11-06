@@ -84,6 +84,7 @@
 ![TIA Portal](https://img.shields.io/badge/-TIA%20Portal-05122A?style=flat&logo=siemens&logoColor=00E0B3)&nbsp;
 ![Fanuc ROBOGUIDE](https://img.shields.io/badge/-FANUC%20Roboguide-05122A?style=flat&logo=robotframework&logoColor=FFD700)&nbsp;
 ![Autodesk Inventor](https://img.shields.io/badge/-Autodesk%20Inventor-05122A?style=flat&logo=autodesk)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 <!--![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-05122A?style=flat&logo=davinciresolve&logoColor=FF6666)&nbsp;-->
 
 
