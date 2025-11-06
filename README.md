@@ -26,7 +26,7 @@
 
 ###
 
- 💻 &nbsp;Programming Languages
+ 💻 &nbsp;**Programming Languages**
  <img alt="Night Coding" src="https://gifdb.com/images/high/coding-animated-laptop-flow-stream-ja04010rm5o68zfk.gif" align="right" width="35%"/>
 
 ###
@@ -45,7 +45,7 @@
 
 ###
 
- 📚 &nbsp;Frameworks & Libraries
+ 📚 &nbsp;**Frameworks & Libraries**
 
 ![SFML](https://img.shields.io/badge/-SFML-05122A?style=flat&logo=sfml)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
@@ -56,14 +56,14 @@
 
 ###
 
- 🗄️ &nbsp;Databases
+ 💾 &nbsp;**Databases**
  
 ![MS SQL](https://img.shields.io/badge/-MS%20SQL-05122A?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAACXBIWXMAAAsTAAALEwEAmpwYAAAFTUlEQVR4nO2Ze0xTZxyG+Wd/mrbekIKgeOWiGM3c0HFujVu2aDJjVGhRNi+7uKnokJskJhqdUFoNICoTlJ7itoBuaFGB4kQiTlGgBZWOIZchIrTlYlQygXfphwJl7pK1FZL1TZ7knF+Tk/dpvu+ckxwXF2ecceb/FUlm1wRW1bWEVXdKOb4zllN1prF8RwGn6rzF8R1VrMpcx6rMrZzKbGZ5cx+rNvVxvMly3MrypjpOba7ieNMtVm0q4HhjGscbY1l1u1SSZQq0XNshpZnMbppVdR1j+U4Dx3dhiM4RdPwZtfkVmEZgHIRVGw0sbzzKqtsou5TnVN1ZHN89rLRjBbhB2sHybWqbBZamtGK0BAJTm2CzwIKYu3hzXx2WJLWATjc5XIDKaMXbyY0IOFADnzi9fQQsBLxgQdw9LNpXi8UH6/GWoglLkh8g6FgrqLR2UCfaQae3gzlpAnvKBJbvAKs2g800gsk0gs5oA5X+CNSJVrxzrAWByU1YfKgeC+NrsWC/Af577sA3Tk+wlHeIQEDMHQTEDjB/BPMI1Vb47x5JFfxG4PuSOAtOAes4BXaPskBAVPXoCey2g8CMjUWYH1n12gXmxFTCc/NV2wWmhpyHp1SDmZuvwGfbTcyL1DtMwCdGh1nhZfD6pARuoUVwk2ntIzCAhuARooHXunx4b7iMmZ+VYPaX1+ETXgafnbfhG1EO312V8IvSwT9aD/+YavjFVsMvRg/faB18IisxN6Icc766hdk7yjBj68+YvqUUnpuK4bG+CGJZIdwG0TpOwCMkbwiphQuDuEsvjuCSFWJp/jAKIJYNxylgX4Fp6/Ox8Iuf4B1WMPYEpkrzcPC7GjS1PcHz3n60dfTg08PlpLh3WD5OFjTiSU8vLPn9eR9ySh5g7kYtKT7jIy0aHj1F1uXm0RP4PKmclCu9a0R0ehWSfvgVW5IriEDu9RbyW5mhA/LsWly7YyLnV3TtRGDWBi05LyxvGz2Bw2drSQl5tsFqCbG7Ssjc0PwYXusGlo1naD5qfntM5lzUtbEh8G50yeASuVljRvD+G0Rg53E9mR05f99qEx/V1JP5lhTd2BDwCMkDE1GMc9db0NvXj/5+YHuqDttSdaRcSm6dlcCRc/fJfMfx6rEhMC30wuBdKDS+bHCNvxd7jRxXN3RhqmygvIfsEvT1XWQuiS4dGwLKnF+gKmxERJoevLaJFDpV0ED+9dK7A5u2WG/EHtU9ImZJ/u1HVpu4ofUpUs7VEz5WVrxega0pFXhoekaKPH72HLmlLfDdVEgEfDdrobnxkCyt4fnmYoPVbbRhGIozdY4RcF+d/Z8fZD6btFi64yoCtxfD8OIulH6pEe6yf/cgc12jsV1gPKeA24dZNr9KzN5QiMDwYgSGX4XX+sJ/FJi8MgciNsl2ARGTAAsTJIfhujwDbquy4T5cwk7vQm6yfExZ/SMmLechkqRASB8i2E1gADlhPJuIicuSMen9NExecQpTVp6G26ociNechXjteYiDNXAPzhsSCL4AcXAexGs1mLI6F66rzsB15feYtCILEz/IwPhlqRAxlsLKFxxyrMCrSXwlQlrxFyj/BqfAUJwCtFPAtojohMpRE6CUFTbWd3EZJzkwQcjEfyui43tfmwCl7BVQytPjJMn2++QkkHztLWLkUSImoUREJ/TYXYBS9AgoZYmAUkYKgpKmuzg0i46/IWATFwkZeZiIke8VMXJexMgvi+hEnZCWN4uYRLOQSex+KSCgFd1CWmEWUInNAlqhE9KKIgGl5AWUYq8wSBkmCFIutFzTsaWdccYZl7GYPwD3CezGzg02CgAAAABJRU5ErkJggg==)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
 
 ### 
 
-🤖 &nbsp;Embedded Systems, Industrial Automation & Robotics
+ 🤖 &nbsp;**Embedded Systems, Industrial Automation & Robotics**
 
 ![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![STM32](https://img.shields.io/badge/-STM32-05122A?style=flat&logo=stmicroelectronics&logoColor=59EEFF)&nbsp;
@@ -72,7 +72,7 @@
 
 ###
 
- 💾 &nbsp;Tools, IDEs, Programs
+ 💿 &nbsp;**Tools, IDEs, Programs**
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -94,7 +94,7 @@
 :-------------------------:|:-------------------------:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000&size_weight=0.3&count_weight=0.7&layout=donut" height="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Stasiak&theme=cobalt&hide_border=false&bg_color=00000000&size_weight=0.2&count_weight=0.8&layout=donut" height="300"/>
 </div>
 
 ###
